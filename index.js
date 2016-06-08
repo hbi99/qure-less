@@ -1,7 +1,7 @@
 
 'use strict';
 
-var fs = require('fs'),
+var accord = require('accord'),
 	chokidar = require('chokidar'),
 	through2 = require('through2'),
 	less = require('less');
