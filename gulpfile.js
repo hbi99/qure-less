@@ -1,10 +1,10 @@
 
 'use strict';
 
-var gulp                       = require('gulp'),
-	$                          = require('gulp-load-plugins')(),
-	gutil                      = require('gulp-util'),
-	colors                     = require('colors');
+var gulp   = require('gulp'),
+	$      = require('gulp-load-plugins')(),
+	gutil  = require('gulp-util'),
+	colors = require('colors');
 
 
 
